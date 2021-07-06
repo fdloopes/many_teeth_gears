@@ -10,4 +10,4 @@
 
 <h2 align="center">Screenshots</h2>
 
-![Captura de tela de 2021-07-06 11-43-35](https://user-images.githubusercontent.com/15859532/124620462-d8710400-de4f-11eb-852f-6239f3fb2374.png)
+![Captura de tela de 2021-07-06 11-43-35](https://user-images.githubusercontent.com/15859532/124620851-2d147f00-de50-11eb-908a-23e0577551ba.png)
